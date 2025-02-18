@@ -18,12 +18,12 @@
 ## 🛠 Installation
 1. Clone the repo:
    git clone https://github.com/Ramla-r4/food-rescue-app.git
-** 🔥 Set up Firebase:
+**🔥Set up Firebase:
   Ensure you have Firebase set up using FlutterFire CLI.
   Download your google-services.json (Android) and GoogleService-Info.plist (iOS).
-** 📦 Install dependencies:
+**📦Install dependencies:
   flutter pub get
-** ▶️   Run the application:
+**▶️ Run the application:
   flutter run
 
 
