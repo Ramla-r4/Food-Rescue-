@@ -10,10 +10,10 @@
 - **Hosting:** Firebase Hosting
   
 ## 🔥 Features 
-✅ User Authentication (Signup, Login, Logout) 
-✅ Food Donation System (Users can donate excess food)
-✅ Real-Time Updates (Live data sync with Firestore)
-✅ Secure & Scalable (Firebase for authentication & storage)
+- ✅ User Authentication (Signup, Login, Logout) 
+- ✅ Food Donation System (Users can donate excess food)
+- ✅ Real-Time Updates (Live data sync with Firestore)
+- ✅ Secure & Scalable (Firebase for authentication & storage)
 
 ## 🛠 Installation
 1. Clone the repo:
