@@ -11,7 +11,7 @@
   
 ## 🔥 Features 
 - ✅ User Authentication (Signup, Login, Logout)       
-<br> ✅ Food Donation System (Users can donate excess food)
+  ✅ Food Donation System (Users can donate excess food)
 - ✅ Real-Time Updates (Live data sync with Firestore)
 - ✅ Secure & Scalable (Firebase for authentication & storage)
 
